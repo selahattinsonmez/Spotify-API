@@ -1,3 +1,3 @@
 # Spotify-Api
-This is 'how to some informations of an artist from spotify?'.
+This is 'how to get some informations of an artist from spotify?'.
 
