@@ -1,0 +1,8 @@
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\bin\Debug\netcoreapp2.1\SpotifyAPI.deps.json
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\bin\Debug\netcoreapp2.1\SpotifyAPI.runtimeconfig.json
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\bin\Debug\netcoreapp2.1\SpotifyAPI.runtimeconfig.dev.json
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\bin\Debug\netcoreapp2.1\SpotifyAPI.dll
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\obj\Debug\netcoreapp2.1\SpotifyAPI.csprojAssemblyReference.cache
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\obj\Debug\netcoreapp2.1\SpotifyAPI.csproj.CoreCompileInputs.cache
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\obj\Debug\netcoreapp2.1\SpotifyAPI.AssemblyInfoInputs.cache
+C:\Users\Selahattin\source\repos\SpotifyAPI\SpotifyAPI\obj\Debug\netcoreapp2.1\SpotifyAPI.AssemblyInfo.cs
